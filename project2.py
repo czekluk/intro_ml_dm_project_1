@@ -5,6 +5,8 @@ import warnings
 import matplotlib.pyplot as plt
 import os
 import seaborn as sns
+import time
+
 from scipy import stats as st
 from scipy.linalg import svd
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
