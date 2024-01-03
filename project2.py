@@ -62,6 +62,8 @@ def main():
     regression_b(X_regr, y_regr)
 
     classification(X_class, y_class)
+
+    print("### DONE ###")
         
     
     
