@@ -7,6 +7,7 @@ import os
 import seaborn as sns
 from scipy import stats as st
 from scipy.linalg import svd
+import sklearn
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split, KFold
